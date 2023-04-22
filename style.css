@@ -1,0 +1,42 @@
+body{
+    margin: 7px;
+    
+}
+.navbar-custom{
+    height: 120px;
+    padding-bottom: 25px;
+}
+.navbar-brand
+{
+    font-size: 30px;
+    
+}
+.name{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(195, 217, 237);
+    height: 90px;
+}
+.box-content-1{
+    padding-left: 25px;
+    padding-top: 25px;
+    background-color:rgb(195, 217, 237);
+    /* color: aliceblue; */
+    text-align: left;
+}
+.box-content-2{
+    background-color: rgb(224, 232, 241);
+    padding-left: 25px;
+    padding-top: 25px;
+}
+/* .backg1{
+    background-color: rgb(175, 196, 216);
+    height: 30px;
+
+} */
+.backg{
+    padding-left: 10px;
+    height: 30px;
+    background-color: rgb(37, 67, 97);
+    color: white;
+}
